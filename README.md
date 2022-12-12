@@ -12,7 +12,7 @@ a REST API Movies,using django REST framework.
 
 ### Links and Resources
 
-- [Repository](https://ibrahimnalmanaseer.github.io/Django-REST-Movies/)
+- [Repository](https://github.com/Ibrahimnalmanaseer/Django-REST-Movies)
 
 
 ### Setup
